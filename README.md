@@ -1,2 +1,3 @@
 # to-do
-a simple to-do list
+a simple to-do list using Python3
+
